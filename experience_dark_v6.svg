@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+<style>
+.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Courier New,monospace}
+.k{font-size:12px;letter-spacing:3px;fill:#34D5FF}
+.h1{font-size:42px;font-weight:800;fill:#F7FAFC}
+.h2{font-size:18px;font-weight:800;fill:#F7FAFC}
+.b{font-size:13px;fill:#94A3B8}
+.p1{animation:b1 7s ease-in-out infinite;transform-origin:left center}.p2{animation:b2 7s ease-in-out infinite;transform-origin:left center}.p3{animation:b3 7s ease-in-out infinite;transform-origin:left center}.p4{animation:b4 7s ease-in-out infinite;transform-origin:left center}.p5{animation:b5 7s ease-in-out infinite;transform-origin:left center}.p6{animation:b6 7s ease-in-out infinite;transform-origin:left center}
+@keyframes b1{0%{transform:scaleX(.05)}35%,100%{transform:scaleX(.95)}}
+@keyframes b2{0%,5%{transform:scaleX(.05)}40%,100%{transform:scaleX(.90)}}
+@keyframes b3{0%,10%{transform:scaleX(.05)}45%,100%{transform:scaleX(.92)}}
+@keyframes b4{0%,15%{transform:scaleX(.05)}50%,100%{transform:scaleX(.89)}}
+@keyframes b5{0%,20%{transform:scaleX(.05)}55%,100%{transform:scaleX(.78)}}
+@keyframes b6{0%,25%{transform:scaleX(.05)}60%,100%{transform:scaleX(.84)}}
+</style>
+</defs>
+
+<rect width="1200" height="620" fill="#05070C"/>
+<rect x="24" y="24" width="1152" height="572" rx="30" fill="#09111C" stroke="#243447" stroke-width="2"/>
+
+<text x="64" y="72" class="m k">EXPERIENCE / CAPABILITIES</text>
+<text x="64" y="126" class="s h1">CREATIVE EXPERIENCE</text>
+<line x1="64" y1="148" x2="1135" y2="148" stroke="#243447"/>
+
+
+<text x="64" y="190" class="s h2">PHOTOGRAPHY</text>
+<text x="64" y="212" class="m b">PORTRAIT · EVENT · PRODUCT · VISUAL STORYTELLING</text>
+<rect x="460" y="177" width="570" height="8" rx="4" fill="#243447"/>
+<rect x="460" y="177" width="570" height="8" rx="4" fill="#34D5FF" class="p1"/>
+<text x="1050" y="190" class="m b">95%</text>
+
+<text x="64" y="260" class="s h2">VIDEOGRAPHY</text>
+<text x="64" y="282" class="m b">EVENT · REELS · COVERAGE · PROMOTIONAL</text>
+<rect x="460" y="247" width="570" height="8" rx="4" fill="#243447"/>
+<rect x="460" y="247" width="570" height="8" rx="4" fill="#77F2BD" class="p2"/>
+<text x="1050" y="260" class="m b">90%</text>
+
+<text x="64" y="330" class="s h2">VIDEO EDITING</text>
+<text x="64" y="352" class="m b">STORY · PACE · YOUTUBE · SHORT-FORM</text>
+<rect x="460" y="317" width="570" height="8" rx="4" fill="#243447"/>
+<rect x="460" y="317" width="570" height="8" rx="4" fill="#FF8A4C" class="p3"/>
+<text x="1050" y="330" class="m b">92%</text>
+
+<text x="64" y="400" class="s h2">GRAPHIC DESIGN</text>
+<text x="64" y="422" class="m b">BRAND · SOCIAL · THUMBNAILS · CAMPAIGNS</text>
+<rect x="460" y="387" width="570" height="8" rx="4" fill="#243447"/>
+<rect x="460" y="387" width="570" height="8" rx="4" fill="#34D5FF" class="p4"/>
+<text x="1050" y="400" class="m b">89%</text>
+
+<text x="64" y="470" class="s h2">WEB DEVELOPMENT</text>
+<text x="64" y="492" class="m b">WORDPRESS · HTML/CSS · PORTFOLIOS · WEB</text>
+<rect x="460" y="457" width="570" height="8" rx="4" fill="#243447"/>
+<rect x="460" y="457" width="570" height="8" rx="4" fill="#77F2BD" class="p5"/>
+<text x="1050" y="470" class="m b">78%</text>
+
+<text x="64" y="540" class="s h2">CREATIVE DIRECTION</text>
+<text x="64" y="562" class="m b">CONCEPT · VISUAL SYSTEM · PRESENTATION</text>
+<rect x="460" y="527" width="570" height="8" rx="4" fill="#243447"/>
+<rect x="460" y="527" width="570" height="8" rx="4" fill="#FF8A4C" class="p6"/>
+<text x="1050" y="540" class="m b">84%</text>
+
+
+</svg>
