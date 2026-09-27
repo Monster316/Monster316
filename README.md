@@ -88,6 +88,20 @@
 
 <div align="center">
 
+## CONTRIBUTION ACTIVITY
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
 [**DESIGN DROPPER**](https://designdropper.com) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**INSTAGRAM**](https://www.instagram.com/joyal_j_lasrado_) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**FACEBOOK**](https://www.facebook.com/share/1Eti8xAp8K/)
