@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180"><rect width="100%" height="100%" fill="#f6f8fa"/><text x="500" y="92" text-anchor="middle" font-family="Arial" font-size="20" fill="#57606a">Syncing live GitHub performance data…</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205">
+<style>
+  .bg{fill:#ffffff} .border{fill:none;stroke:#d0d7de;stroke-width:1}
+  .title{fill:#24292f;font:700 18px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+  .label{fill:#57606a;font:600 11px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;letter-spacing:.7px}
+  .value{fill:#24292f;font:700 29px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+  .sub{fill:#6e7781;font:400 11px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+  .card{fill:#f6f8fa;stroke:#d8dee4;stroke-width:1}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117} .border{stroke:#30363d} .title,.value{fill:#f0f6fc}
+    .label{fill:#8b949e} .sub{fill:#8b949e} .card{fill:#161b22;stroke:#30363d}
+  }
+</style>
+<rect class="bg" width="100%" height="100%" rx="12"/>
+<rect class="border" x=".5" y=".5" width="999" height="204" rx="12"/>
+<text class="title" x="20" y="32">JOYAL LASRADO · GitHub Performance</text>
+<text class="sub" x="980" y="31" text-anchor="end">Updated 27 Sep 2026 · 10:11 UTC</text><rect class="card" x="20" y="62" width="180" height="112" rx="10"/>
+<text class="label" x="34" y="87">CONTRIBUTIONS</text>
+<text class="value" x="34" y="126">1,334</text>
+<text class="sub" x="34" y="150">2026</text><rect class="card" x="215" y="62" width="180" height="112" rx="10"/>
+<text class="label" x="229" y="87">CURRENT STREAK</text>
+<text class="value" x="229" y="126">10</text>
+<text class="sub" x="229" y="150">days</text><rect class="card" x="410" y="62" width="180" height="112" rx="10"/>
+<text class="label" x="424" y="87">LONGEST STREAK</text>
+<text class="value" x="424" y="126">19</text>
+<text class="sub" x="424" y="150">days</text><rect class="card" x="605" y="62" width="180" height="112" rx="10"/>
+<text class="label" x="619" y="87">PUBLIC REPOS</text>
+<text class="value" x="619" y="126">3</text>
+<text class="sub" x="619" y="150">owned</text><rect class="card" x="800" y="62" width="180" height="112" rx="10"/>
+<text class="label" x="814" y="87">FOLLOWERS</text>
+<text class="value" x="814" y="126">0</text>
+<text class="sub" x="814" y="150">following 0</text></svg>
