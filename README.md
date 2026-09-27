@@ -233,6 +233,44 @@ Building practical tools for business workflows, customer management and digital
 
 <div align="center">
 
+## WORK WITH ME
+
+<p>
+I’m open to creative, media, web, branding and digital-product collaborations.
+If you have a project that needs strong visual execution or a practical digital solution, let’s connect.
+</p>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/Monster316"><b>GITHUB</b></a><br>
+<sub>Code & projects</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://designdropper.com"><b>DESIGN DROPPER</b></a><br>
+<sub>Creative & web work</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.instagram.com/joyal_j_lasrado_"><b>INSTAGRAM</b></a><br>
+<sub>Visual work & updates</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.facebook.com/share/1Eti8xAp8K/"><b>FACEBOOK</b></a><br>
+<sub>Connect directly</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+**AVAILABLE FOR SELECT CREATIVE & DIGITAL COLLABORATIONS**
+
+</div>
+
+<br>
+
+<div align="center">
+
 [**DESIGN DROPPER**](https://designdropper.com) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**INSTAGRAM**](https://www.instagram.com/joyal_j_lasrado_) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**FACEBOOK**](https://www.facebook.com/share/1Eti8xAp8K/)
