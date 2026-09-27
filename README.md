@@ -33,7 +33,7 @@
 <b>After Effects</b>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/adobelightroom.svg" width="46" alt="Lightroom"><br>
+<img src="https://skillicons.dev/icons?i=lightroom" width="46" alt="Lightroom"><br>
 <b>Lightroom</b>
 </td>
 <td align="center" width="20%">
