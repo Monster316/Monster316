@@ -119,9 +119,9 @@
 ## GITHUB PERFORMANCE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=24292f&text_color=57606a&icon_color=0969da" />
-  <img alt="Joyal Lasrado GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster316&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster316&theme=github" />
+  <img alt="Joyal Lasrado GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster316&theme=github" width="49%" />
 </picture>
 
 <picture>
@@ -133,9 +133,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&theme=transparent&title_color=24292f&text_color=57606a" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&theme=transparent" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster316&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster316&theme=github" />
+  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster316&theme=github" width="49%" />
 </picture>
 
 </div>
