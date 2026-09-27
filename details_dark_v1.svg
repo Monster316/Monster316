@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img">
+<defs>
+<style>
+.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,Courier New,monospace}
+.kicker{font-size:13px;letter-spacing:3px;fill:#34D5FF}.secno{font-size:16px;font-weight:700;fill:#34D5FF}
+.sectitle{font-size:30px;font-weight:800;fill:#F5F7FA}.headline{font-size:24px;font-weight:800;fill:#F5F7FA}
+.body{font-size:17px;fill:#C9D7E3}.small{font-size:14px;fill:#91A4B8}.label{font-size:14px;font-weight:700;letter-spacing:1px;fill:#91A4B8}
+.tag{font-size:13px;font-weight:700;fill:#77F2BD}.org{font-size:22px;font-weight:800;fill:#F5F7FA}.active{animation:pulse 2.2s ease-in-out infinite}
+.a1{animation:f1 10s infinite}.a2{animation:f2 10s infinite}.a3{animation:f3 10s infinite}.a4{animation:f4 10s infinite}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes f1{0%,20%{opacity:1}25%,100%{opacity:.42}}@keyframes f2{0%,24%{opacity:.42}25%,45%{opacity:1}50%,100%{opacity:.42}}
+@keyframes f3{0%,49%{opacity:.42}50%,70%{opacity:1}75%,100%{opacity:.42}}@keyframes f4{0%,74%{opacity:.42}75%,95%{opacity:1}100%{opacity:.42}}
+</style>
+</defs>
+<rect width="1200" height="860" fill="#05070C"/>
+<rect x="28" y="24" width="1144" height="812" rx="28" fill="#09111C" stroke="#26384B" stroke-width="2"/>
+
+<text x="64" y="68" class="mono kicker">PORTFOLIO DETAILS / JOYAL LASRADO</text>
+
+<!-- PROFILE -->
+<text x="64" y="126" class="mono secno">01</text>
+<text x="112" y="127" class="sans sectitle">PROFILE</text>
+<line x1="64" y1="146" x2="1135" y2="146" stroke="#26384B"/>
+<text x="64" y="190" class="sans headline">MULTIDISCIPLINARY CREATIVE PROFESSIONAL</text>
+<text x="64" y="224" class="sans body">I work across visual production, post-production, design and digital experiences.</text>
+<text x="64" y="252" class="sans body">My process connects camera, edit, design and technology to build polished creative work.</text>
+
+<rect x="64" y="286" width="310" height="72" rx="16" fill="#0E1927"/>
+<text x="84" y="312" class="mono label">BASE</text><text x="84" y="339" class="sans body">Karkala, Karnataka, India</text>
+<rect x="394" y="286" width="310" height="72" rx="16" fill="#0E1927"/>
+<text x="414" y="312" class="mono label">GITHUB</text><text x="414" y="339" class="sans body">@Monster316</text>
+<rect x="724" y="286" width="410" height="72" rx="16" fill="#0E1927"/>
+<text x="744" y="312" class="mono label">CREATIVE BRAND</text><text x="744" y="339" class="sans body">Design Dropper</text>
+
+<!-- EXPERIENCE -->
+<text x="64" y="422" class="mono secno">02</text>
+<text x="112" y="423" class="sans sectitle">EXPERIENCE / SELECTED WORK</text>
+<line x1="64" y1="442" x2="1135" y2="442" stroke="#26384B"/>
+
+<g class="a1">
+<circle cx="76" cy="490" r="6" fill="#34D5FF" class="active"/>
+<text x="102" y="490" class="sans org">NP GROUPS</text>
+<text x="102" y="518" class="sans tag">CREATIVE · DIGITAL · BRAND COMMUNICATION</text>
+<text x="102" y="546" class="sans body">Creative and digital work across NP Group ventures — the umbrella group behind the NP brands.</text>
+</g>
+
+<g class="a2">
+<circle cx="76" cy="594" r="6" fill="#77F2BD"/>
+<text x="102" y="594" class="sans org">DESIGN DROPPER</text>
+<text x="102" y="622" class="sans tag">IDENTITY · GRAPHIC DESIGN · WEB</text>
+<text x="102" y="650" class="sans body">Personal creative platform focused on branding, visual communication and digital presentation.</text>
+</g>
+
+<g class="a3">
+<circle cx="76" cy="698" r="6" fill="#FF8A4C"/>
+<text x="102" y="698" class="sans org">NAMMUR EXPRESS</text>
+<text x="102" y="726" class="sans tag">VIDEOGRAPHY · VIDEO EDITING · MEDIA CONTENT</text>
+<text x="102" y="754" class="sans body">Media production, event coverage, social content and video editing for digital publishing.</text>
+</g>
+
+<g class="a4">
+<circle cx="76" cy="802" r="6" fill="#34D5FF"/>
+<text x="102" y="802" class="sans org">EVENT & CULTURAL VISUALS</text>
+<text x="600" y="802" class="sans tag">PHOTO · VIDEO · THUMBNAILS · MOTION</text>
+</g>
+</svg>
