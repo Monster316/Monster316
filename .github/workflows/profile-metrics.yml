@@ -1,0 +1,40 @@
+name: Update Profile Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+  push:
+    paths:
+      - ".github/workflows/profile-metrics.yml"
+      - "scripts/update_profile_metrics.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile metrics from GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: Monster316
+        run: python3 scripts/update_profile_metrics.py
+
+      - name: Commit updated metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics/profile-metrics.svg metrics/contribution-heatmap.svg
+          if git diff --cached --quiet; then
+            echo "No metric changes."
+          else
+            git commit -m "Update live profile metrics"
+            git push
+          fi
