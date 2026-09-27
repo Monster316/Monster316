@@ -104,11 +104,25 @@
 
 ## CONTRIBUTION ACTIVITY
 
+### Contribution Heatmap
+
+<img
+  src="https://ghchart.rshah.org/Monster316"
+  alt="Monster316 GitHub contribution heatmap"
+  width="100%"
+/>
+
+<br><br>
+
+### Animated Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake.svg" />
   <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<sub>The heatmap shows the full contribution history. The snake is an animated visualization that consumes the contribution cells while it plays.</sub>
 
 </div>
 
