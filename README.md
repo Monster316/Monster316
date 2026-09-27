@@ -130,6 +130,54 @@
 
 <div align="center">
 
+## FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Design Dropper
+Creative design and digital solutions brand focused on visual identity, web presence, and digital experiences.
+
+[**Visit Website →**](https://designdropper.com)
+
+</td>
+<td width="50%" valign="top">
+
+### DesignDropper Minecraft Network
+Public GitHub project under the Design Dropper ecosystem.
+
+[**View Repository →**](https://github.com/Monster316/DesignDropper-Minecraft-Network)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### NP Gruha Samruddhi Scheme
+A customer savings-scheme application built for installment tracking and purchase-value management.
+
+[**Open Live App →**](https://np-gruha-samruddhi.joyallasrado118.chatgpt.site/)
+
+</td>
+<td width="50%" valign="top">
+
+### More Projects Coming
+Web, design, media, and software projects will be added here as they are published.
+
+**Building continuously.**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
 [**DESIGN DROPPER**](https://designdropper.com) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**INSTAGRAM**](https://www.instagram.com/joyal_j_lasrado_) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**FACEBOOK**](https://www.facebook.com/share/1Eti8xAp8K/)
