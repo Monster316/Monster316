@@ -155,18 +155,18 @@ Public GitHub project under the Design Dropper ecosystem.
 <tr>
 <td width="50%" valign="top">
 
-### NP Gruha Samruddhi Scheme
-A customer savings-scheme application built for installment tracking and purchase-value management.
+### More Projects Coming
+Public web, design, media, and software projects will be added here as they are published.
 
-[**Open Live App →**](https://np-gruha-samruddhi.joyallasrado118.chatgpt.site/)
+**Building continuously.**
 
 </td>
 <td width="50%" valign="top">
 
-### More Projects Coming
-Web, design, media, and software projects will be added here as they are published.
+### Creative Technology Projects
+Frontend experiments, portfolio concepts, design systems, and public digital builds will be showcased here.
 
-**Building continuously.**
+**More public releases coming soon.**
 
 </td>
 </tr>
