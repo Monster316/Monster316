@@ -110,13 +110,13 @@
 </g>
 
 <g class="a5">
-  <text x="835" y="312" class="mono skillNo">05</text>
-  <text x="875" y="312" class="sans skillTitle">WEB / DIGITAL</text>
-  <text x="875" y="329" class="mono skillSub">WORDPRESS / WEB / SYSTEMS</text>
+  <text x="835" y="301" class="mono skillNo">05</text>
+  <text x="875" y="301" class="sans skillTitle">WEB / DIGITAL</text>
+  <text x="875" y="318" class="mono skillSub">WORDPRESS / WEB / SYSTEMS</text>
 </g>
 
-<circle cx="1008" cy="345" r="4" fill="#34D5FF" class="blink"/>
-<text x="1024" y="350" class="mono status">AVAILABLE / ONLINE</text>
+<circle cx="1008" cy="332" r="4" fill="#34D5FF" class="blink"/>
+<text x="1024" y="337" class="mono status">AVAILABLE / ONLINE</text>
 
 <text x="48" y="332" class="mono meta">KARKALA · KARNATAKA · INDIA</text>
 </svg>
