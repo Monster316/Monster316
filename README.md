@@ -33,7 +33,7 @@
 <b>After Effects</b>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" width="46" alt="Lightroom"><br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/adobelightroom.svg" width="46" alt="Lightroom"><br>
 <b>Lightroom</b>
 </td>
 <td align="center" width="20%">
@@ -67,7 +67,7 @@
 
 <tr>
 <td align="center">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="46" alt="Canva"><br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/canva.svg" width="46" alt="Canva"><br>
 <b>Canva</b>
 </td>
 <td colspan="4"></td>
