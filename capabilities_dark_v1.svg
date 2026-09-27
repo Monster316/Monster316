@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img">
+<defs>
+<style>
+.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,Courier New,monospace}
+.kicker{font-size:13px;letter-spacing:3px;fill:#34D5FF}.secno{font-size:16px;font-weight:700;fill:#34D5FF}
+.sectitle{font-size:30px;font-weight:800;fill:#F5F7FA}.cardtitle{font-size:20px;font-weight:800;fill:#F5F7FA}
+.body{font-size:15px;fill:#C9D7E3}.small{font-size:13px;fill:#91A4B8}.status{font-size:14px;font-weight:700;letter-spacing:1px;fill:#77F2BD}
+.pulse{animation:pulse 1.8s ease-in-out infinite}.move{animation:move 5s ease-in-out infinite;transform-origin:left center}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@keyframes move{0%,100%{transform:scaleX(.25)}50%{transform:scaleX(1)}}
+</style>
+</defs>
+<rect width="1200" height="760" fill="#05070C"/>
+<rect x="28" y="24" width="1144" height="712" rx="28" fill="#09111C" stroke="#26384B" stroke-width="2"/>
+<text x="64" y="68" class="mono kicker">CAPABILITIES / TOOLKIT / DIRECTION</text>
+
+<!-- SERVICES -->
+<text x="64" y="126" class="mono secno">03</text><text x="112" y="127" class="sans sectitle">CREATIVE SERVICES</text>
+<line x1="64" y1="146" x2="1135" y2="146" stroke="#26384B"/>
+
+<rect x="64" y="178" width="250" height="138" rx="18" fill="#0E1927"/>
+<text x="84" y="212" class="sans cardtitle">VISUAL</text>
+<text x="84" y="240" class="sans body">Photography</text><text x="84" y="264" class="sans body">Videography</text>
+<text x="84" y="288" class="sans body">Event Coverage</text>
+
+<rect x="332" y="178" width="250" height="138" rx="18" fill="#0E1927"/>
+<text x="352" y="212" class="sans cardtitle">POST</text>
+<text x="352" y="240" class="sans body">Video Editing</text><text x="352" y="264" class="sans body">Reels / YouTube</text>
+<text x="352" y="288" class="sans body">Promotional Edits</text>
+
+<rect x="600" y="178" width="250" height="138" rx="18" fill="#0E1927"/>
+<text x="620" y="212" class="sans cardtitle">DESIGN</text>
+<text x="620" y="240" class="sans body">Brand Visuals</text><text x="620" y="264" class="sans body">Posters / Thumbnails</text>
+<text x="620" y="288" class="sans body">Campaign Creatives</text>
+
+<rect x="868" y="178" width="266" height="138" rx="18" fill="#0E1927"/>
+<text x="888" y="212" class="sans cardtitle">DIGITAL</text>
+<text x="888" y="240" class="sans body">WordPress</text><text x="888" y="264" class="sans body">Website Development</text>
+<text x="888" y="288" class="sans body">Digital Experiences</text>
+
+<!-- TOOLKIT -->
+<text x="64" y="374" class="mono secno">04</text><text x="112" y="375" class="sans sectitle">TOOLKIT</text>
+<line x1="64" y1="394" x2="1135" y2="394" stroke="#26384B"/>
+<text x="64" y="434" class="mono small">VIDEO / MOTION</text><text x="240" y="434" class="sans body">Premiere Pro · After Effects · VFX workflows</text>
+<text x="64" y="468" class="mono small">PHOTO / DESIGN</text><text x="240" y="468" class="sans body">Photoshop · Lightroom · Canva</text>
+<text x="64" y="502" class="mono small">WEB / DIGITAL</text><text x="240" y="502" class="sans body">WordPress · HTML/CSS · GitHub · Supabase</text>
+<text x="64" y="536" class="mono small">CREATIVE AI</text><text x="240" y="536" class="sans body">Visual ideation · Motion concepts · Video prompting · Automation</text>
+
+<!-- DIRECTION -->
+<text x="64" y="598" class="mono secno">05</text><text x="112" y="599" class="sans sectitle">CURRENT DIRECTION</text>
+<line x1="64" y1="618" x2="1135" y2="618" stroke="#26384B"/>
+<circle cx="72" cy="658" r="5" fill="#77F2BD" class="pulse"/><text x="92" y="663" class="sans status">VISUAL STORYTELLING / ACTIVE</text>
+<rect x="410" y="651" width="610" height="4" rx="2" fill="#26384B"/><rect x="410" y="651" width="610" height="4" rx="2" fill="#34D5FF" class="move"/>
+<text x="64" y="710" class="sans body">Building work that feels more cinematic, intentional and recognisable across video, design and digital media.</text>
+</svg>
