@@ -1,50 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
-<title id="t">Joyal Lasrado Creative Profile</title>
-<desc id="d">Minimal animated editorial banner</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img">
 <defs>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop stop-color="#0067FF"/><stop offset="1" stop-color="#00A7C4"/>
+  <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#34D5FF"/>
+    <stop offset=".55" stop-color="#77F2BD"/>
+    <stop offset="1" stop-color="#FF8A4C"/>
   </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#F7F8FA"/>
+    <stop offset=".72" stop-color="#F3F5F7"/>
+    <stop offset="1" stop-color="#EDF1F5"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="8" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
   <style>
-    .sans{font-family:Arial,Helvetica,sans-serif}
-    .mono{font-family:"Courier New",monospace}
-    .name{font-size:82px;font-weight:800;letter-spacing:-4px;fill:#0D1117}
-    .eyebrow{font-size:14px;font-weight:700;letter-spacing:3px;fill:#0067FF}
-    .sub{font-size:20px;fill:#4B5563}
-    .small{font-size:13px;letter-spacing:1.5px;fill:#6B7280}
-    .line{animation:grow 5s ease-in-out infinite;transform-origin:180px 257px}
-    .r1{animation:r1 12s ease-in-out infinite}
-    .r2{animation:r2 12s ease-in-out infinite}
-    .r3{animation:r3 12s ease-in-out infinite}
-    .dot{animation:pulse 1.8s ease-in-out infinite}
-    @keyframes grow{0%,100%{transform:scaleX(.12)}50%{transform:scaleX(1)}}
-    @keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
-    @keyframes r1{0%,27%{opacity:1}33%,94%{opacity:0}100%{opacity:1}}
-    @keyframes r2{0%,27%{opacity:0}33%,60%{opacity:1}66%,100%{opacity:0}}
-    @keyframes r3{0%,60%{opacity:0}66%,94%{opacity:1}100%{opacity:0}}
+    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .mono{font-family:Consolas,Courier New,monospace}
+    .eyebrow{font-size:13px;letter-spacing:4px;fill:#667085}
+    .first{font-size:86px;font-weight:800;letter-spacing:-4px;fill:#111827}
+    .last{font-size:86px;font-weight:800;letter-spacing:-4px;fill:#111827}
+    .role{font-size:20px;font-weight:700;letter-spacing:2px;fill:#77F2BD}
+    .meta{font-size:14px;fill:#667085}
+    .index{font-size:12px;letter-spacing:1px;fill:#697586}
+    .status{font-size:12px;letter-spacing:2px;fill:#34D5FF}
+    .bar{animation:bar 6s ease-in-out infinite;transform-origin:left center}
+    .blink{animation:blink 1.4s steps(1) infinite}
+    .r1{animation:r1 12s infinite}
+    .r2{animation:r2 12s infinite}
+    .r3{animation:r3 12s infinite}
+    .r4{animation:r4 12s infinite}
+    .grain{animation:drift 10s linear infinite}
+    @keyframes bar{0%,100%{transform:scaleX(.18)}50%{transform:scaleX(1)}}
+    @keyframes blink{0%,50%{opacity:1}51%,100%{opacity:.2}}
+    @keyframes r1{0%,20%{opacity:1}25%,100%{opacity:0}}
+    @keyframes r2{0%,24%{opacity:0}25%,45%{opacity:1}50%,100%{opacity:0}}
+    @keyframes r3{0%,49%{opacity:0}50%,70%{opacity:1}75%,100%{opacity:0}}
+    @keyframes r4{0%,74%{opacity:0}75%,95%{opacity:1}100%{opacity:0}}
+    @keyframes drift{from{transform:translateX(-40px)}to{transform:translateX(40px)}}
   </style>
 </defs>
 
-<rect width="1200" height="360" rx="28" fill="#FFFFFF"/>
-<rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#E5E7EB"/>
+<rect width="1200" height="360" fill="url(#fade)"/>
 
-<text x="70" y="62" class="sans eyebrow">CREATIVE PROFILE / 2026</text>
-
-<text x="66" y="160" class="sans name">JOYAL LASRADO</text>
-
-<g class="sans sub">
-  <text x="72" y="214" class="r1">Visual Storyteller · Photographer · Videographer</text>
-  <text x="72" y="214" class="r2">Video Editor · Graphic Designer · Creative Technologist</text>
-  <text x="72" y="214" class="r3">Web Creator · Digital Designer · Visual Problem Solver</text>
+<!-- subtle editorial grid -->
+<g opacity=".14" stroke="#CBD5E1">
+  <line x1="42" y1="64" x2="1158" y2="64"/>
+  <line x1="42" y1="304" x2="1158" y2="304"/>
+  <line x1="840" y1="64" x2="840" y2="304"/>
 </g>
 
-<rect x="72" y="254" width="690" height="4" rx="2" fill="#E5E7EB"/>
-<rect x="72" y="254" width="690" height="4" rx="2" fill="url(#accent)" class="line"/>
+<!-- ambient glow -->
+<circle cx="1040" cy="95" r="150" fill="#34D5FF" opacity=".055" filter="url(#glow)"/>
+<circle cx="960" cy="310" r="120" fill="#FF8A4C" opacity=".04" filter="url(#glow)"/>
 
-<text x="72" y="302" class="mono small">PHOTOGRAPHY  /  MOTION  /  DESIGN  /  WEB</text>
+<text x="48" y="45" class="mono eyebrow">MONSTER316 / CREATIVE PROFILE</text>
+<text x="48" y="147" class="sans first">JOYAL</text>
+<text x="48" y="232" class="sans last">LASRADO</text>
 
-<circle cx="1090" cy="57" r="5" fill="#00A7C4" class="dot"/>
-<text x="1110" y="62" class="mono small">AVAILABLE</text>
+<g class="sans role">
+  <text x="53" y="275" class="r1">VISUAL STORYTELLER</text>
+  <text x="53" y="275" class="r2">VIDEO EDITOR</text>
+  <text x="53" y="275" class="r3">GRAPHIC DESIGNER</text>
+  <text x="53" y="275" class="r4">WEB CREATOR</text>
+</g>
 
-<text x="920" y="309" class="mono small">MONSTER316</text>
+<rect x="48" y="291" width="540" height="3" rx="2" fill="url(#accent)" class="bar"/>
+
+<g class="mono">
+  <text x="884" y="112" class="index">01  PHOTOGRAPHY</text>
+  <text x="884" y="150" class="index">02  VIDEOGRAPHY</text>
+  <text x="884" y="188" class="index">03  EDITING</text>
+  <text x="884" y="226" class="index">04  DESIGN</text>
+  <text x="884" y="264" class="index">05  WEB</text>
+</g>
+
+<circle cx="1030" cy="327" r="4" fill="#34D5FF" class="blink"/>
+<text x="1046" y="332" class="mono status">AVAILABLE / ONLINE</text>
+
+<text x="48" y="332" class="mono meta">KARKALA · KARNATAKA · INDIA</text>
 </svg>
