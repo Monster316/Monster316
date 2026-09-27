@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
-  <img alt="Joyal Lasrado — Creative Profile" src="./dark_mode.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode_v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light_mode_v2.svg" />
+  <img alt="Joyal Lasrado — Creative Profile" src="./dark_mode_v2.svg" width="100%" />
 </picture>
 
 <br>
