@@ -1,4 +1,5 @@
 name: Generate Contribution Snake
+# refresh after contribution graph recalculation
 # refreshed after activity sync
 
 on:
