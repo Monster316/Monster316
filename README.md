@@ -102,6 +102,34 @@
 
 <div align="center">
 
+## GITHUB PERFORMANCE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=24292f&text_color=57606a&icon_color=0969da" />
+  <img alt="Joyal Lasrado GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Monster316&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Monster316&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&currStreakNum=24292F&sideNums=57606A&dates=6E7781" />
+  <img alt="Joyal Lasrado GitHub streak" src="https://streak-stats.demolab.com?user=Monster316&hide_border=true&background=00000000" width="49%" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&theme=transparent&title_color=24292f&text_color=57606a" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&theme=transparent" width="49%" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
 [**DESIGN DROPPER**](https://designdropper.com) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**INSTAGRAM**](https://www.instagram.com/joyal_j_lasrado_) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**FACEBOOK**](https://www.facebook.com/share/1Eti8xAp8K/)
