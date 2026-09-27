@@ -18,41 +18,43 @@
     .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
     .mono{font-family:Consolas,Courier New,monospace}
     .eyebrow{font-size:13px;letter-spacing:4px;fill:#8FA1B5}
-    .first{font-size:86px;font-weight:800;letter-spacing:-4px;fill:#F5F7FA}
-    .last{font-size:86px;font-weight:800;letter-spacing:-4px;fill:#F5F7FA}
+    .first,.last{font-size:86px;font-weight:800;letter-spacing:-4px;fill:#F5F7FA}
     .role{font-size:20px;font-weight:700;letter-spacing:2px;fill:#77F2BD}
     .meta{font-size:14px;fill:#96A8BA}
-    .index{font-size:12px;letter-spacing:1px;fill:#64748B}
+    .skillNo{font-size:12px;letter-spacing:1px;fill:#34D5FF}
+    .skillTitle{font-size:16px;font-weight:700;letter-spacing:.6px;fill:#DCE8F2}
+    .skillSub{font-size:10px;letter-spacing:.5px;fill:#8FA1B5}
     .status{font-size:12px;letter-spacing:2px;fill:#34D5FF}
     .bar{animation:bar 6s ease-in-out infinite;transform-origin:left center}
     .blink{animation:blink 1.4s steps(1) infinite}
-    .r1{animation:r1 12s infinite}
-    .r2{animation:r2 12s infinite}
-    .r3{animation:r3 12s infinite}
-    .r4{animation:r4 12s infinite}
-    .grain{animation:drift 10s linear infinite}
+    .r1{animation:r1 12s infinite}.r2{animation:r2 12s infinite}.r3{animation:r3 12s infinite}.r4{animation:r4 12s infinite}
+    .sk1{animation:sk1 15s infinite}.sk2{animation:sk2 15s infinite}.sk3{animation:sk3 15s infinite}.sk4{animation:sk4 15s infinite}.sk5{animation:sk5 15s infinite}
+    .scan{animation:scan 15s ease-in-out infinite}
     @keyframes bar{0%,100%{transform:scaleX(.18)}50%{transform:scaleX(1)}}
     @keyframes blink{0%,50%{opacity:1}51%,100%{opacity:.2}}
     @keyframes r1{0%,20%{opacity:1}25%,100%{opacity:0}}
     @keyframes r2{0%,24%{opacity:0}25%,45%{opacity:1}50%,100%{opacity:0}}
     @keyframes r3{0%,49%{opacity:0}50%,70%{opacity:1}75%,100%{opacity:0}}
     @keyframes r4{0%,74%{opacity:0}75%,95%{opacity:1}100%{opacity:0}}
-    @keyframes drift{from{transform:translateX(-40px)}to{transform:translateX(40px)}}
+    @keyframes sk1{0%,16%{opacity:1;transform:translateX(0)}20%,100%{opacity:.45;transform:translateX(4px)}}
+    @keyframes sk2{0%,19%{opacity:.45;transform:translateX(4px)}20%,36%{opacity:1;transform:translateX(0)}40%,100%{opacity:.45;transform:translateX(4px)}}
+    @keyframes sk3{0%,39%{opacity:.45;transform:translateX(4px)}40%,56%{opacity:1;transform:translateX(0)}60%,100%{opacity:.45;transform:translateX(4px)}}
+    @keyframes sk4{0%,59%{opacity:.45;transform:translateX(4px)}60%,76%{opacity:1;transform:translateX(0)}80%,100%{opacity:.45;transform:translateX(4px)}}
+    @keyframes sk5{0%,79%{opacity:.45;transform:translateX(4px)}80%,96%{opacity:1;transform:translateX(0)}100%{opacity:.45;transform:translateX(4px)}}
+    @keyframes scan{0%,16%{transform:translateY(0)}20%,36%{transform:translateY(47px)}40%,56%{transform:translateY(94px)}60%,76%{transform:translateY(141px)}80%,96%{transform:translateY(188px)}100%{transform:translateY(0)}}
   </style>
 </defs>
 
 <rect width="1200" height="360" fill="url(#fade)"/>
 
-<!-- subtle editorial grid -->
 <g opacity=".14" stroke="#334155">
   <line x1="42" y1="64" x2="1158" y2="64"/>
   <line x1="42" y1="304" x2="1158" y2="304"/>
-  <line x1="840" y1="64" x2="840" y2="304"/>
+  <line x1="790" y1="64" x2="790" y2="304"/>
 </g>
 
-<!-- ambient glow -->
-<circle cx="1040" cy="95" r="150" fill="#34D5FF" opacity=".035" filter="url(#glow)"/>
-<circle cx="960" cy="310" r="120" fill="#FF8A4C" opacity=".025" filter="url(#glow)"/>
+<circle cx="1040" cy="95" r="150" fill="#34D5FF" opacity=".045" filter="url(#glow)"/>
+<circle cx="960" cy="310" r="120" fill="#FF8A4C" opacity=".03" filter="url(#glow)"/>
 
 <text x="48" y="45" class="mono eyebrow">MONSTER316 / CREATIVE PROFILE</text>
 <text x="48" y="147" class="sans first">JOYAL</text>
@@ -67,16 +69,38 @@
 
 <rect x="48" y="291" width="540" height="3" rx="2" fill="url(#accent)" class="bar"/>
 
-<g class="mono">
-  <text x="884" y="112" class="index">01  PHOTOGRAPHY</text>
-  <text x="884" y="150" class="index">02  VIDEOGRAPHY</text>
-  <text x="884" y="188" class="index">03  EDITING</text>
-  <text x="884" y="226" class="index">04  DESIGN</text>
-  <text x="884" y="264" class="index">05  WEB</text>
+<!-- animated skills panel -->
+<rect x="822" y="77" width="315" height="215" rx="16" fill="#0D1623" opacity=".54" stroke="#26384B" stroke-width="1"/>
+<rect x="832" y="88" width="4" height="36" rx="2" fill="#34D5FF" class="scan"/>
+
+<g class="sk1">
+  <text x="850" y="98" class="mono skillNo">01</text>
+  <text x="886" y="99" class="sans skillTitle">PHOTOGRAPHY</text>
+  <text x="886" y="116" class="mono skillSub">PORTRAIT · EVENT · PRODUCT</text>
+</g>
+<g class="sk2">
+  <text x="850" y="145" class="mono skillNo">02</text>
+  <text x="886" y="146" class="sans skillTitle">VIDEOGRAPHY</text>
+  <text x="886" y="163" class="mono skillSub">EVENT · REELS · COVERAGE</text>
+</g>
+<g class="sk3">
+  <text x="850" y="192" class="mono skillNo">03</text>
+  <text x="886" y="193" class="sans skillTitle">VIDEO EDITING</text>
+  <text x="886" y="210" class="mono skillSub">STORY · PACE · POST</text>
+</g>
+<g class="sk4">
+  <text x="850" y="239" class="mono skillNo">04</text>
+  <text x="886" y="240" class="sans skillTitle">GRAPHIC DESIGN</text>
+  <text x="886" y="257" class="mono skillSub">BRAND · SOCIAL · CAMPAIGN</text>
+</g>
+<g class="sk5">
+  <text x="850" y="286" class="mono skillNo">05</text>
+  <text x="886" y="287" class="sans skillTitle">WEB / DIGITAL</text>
+  <text x="886" y="304" class="mono skillSub">WORDPRESS · WEB · SYSTEMS</text>
 </g>
 
-<circle cx="1030" cy="327" r="4" fill="#34D5FF" class="blink"/>
-<text x="1046" y="332" class="mono status">AVAILABLE / ONLINE</text>
+<circle cx="1008" cy="327" r="4" fill="#34D5FF" class="blink"/>
+<text x="1024" y="332" class="mono status">AVAILABLE / ONLINE</text>
 
 <text x="48" y="332" class="mono meta">KARKALA · KARNATAKA · INDIA</text>
 </svg>
