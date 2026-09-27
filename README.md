@@ -92,6 +92,20 @@
 
 <br>
 
+<div align="center">
+
+## CAPABILITIES
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./capabilities_dark_v1.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./capabilities_light_v1.svg" />
+  <img alt="Joyal Lasrado creative capabilities and toolkit" src="./capabilities_dark_v1.svg" width="100%" />
+</picture>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./experience_dark_v6.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./experience_light_v6.svg" />
@@ -139,38 +153,36 @@
 ### Design Dropper
 Creative design and digital solutions brand focused on visual identity, web presence, and digital experiences.
 
-[**Visit Website →**](https://designdropper.com)
+**Focus:** Branding · Web · Visual Design · Digital Experiences
+
+[**Visit Design Dropper →**](https://designdropper.com)
 
 </td>
 <td width="50%" valign="top">
 
-### DesignDropper Minecraft Network
-Public GitHub project under the Design Dropper ecosystem.
+### GitHub Profile System
+A custom GitHub profile experience built with responsive SVG interfaces, automated contribution metrics, GitHub Actions, and light/dark presentation.
 
-[**View Repository →**](https://github.com/Monster316/DesignDropper-Minecraft-Network)
+**Stack:** SVG · Python · GitHub Actions · GraphQL · Markdown
+
+[**Explore the Profile Repository →**](https://github.com/Monster316/Monster316)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### More Projects Coming
-Public web, design, media, and software projects will be added here as they are published.
+### DesignDropper Minecraft Network
+A public repository inside the Design Dropper ecosystem and part of my growing collection of public digital projects.
 
-**Building continuously.**
-
-</td>
-<td width="50%" valign="top">
-
-### Creative Technology Projects
-Frontend experiments, portfolio concepts, design systems, and public digital builds will be showcased here.
-
-**More public releases coming soon.**
+[**View Repository →**](https://github.com/Monster316/DesignDropper-Minecraft-Network)
 
 </td>
 </tr>
 </table>
+
+<sub>Only public work is featured here. Private client and internal business projects are intentionally excluded.</sub>
 
 </div>
 
