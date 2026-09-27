@@ -104,25 +104,11 @@
 
 ## CONTRIBUTION ACTIVITY
 
-### Contribution Heatmap
-
-<img
-  src="https://ghchart.rshah.org/Monster316"
-  alt="Monster316 GitHub contribution heatmap"
-  width="100%"
-/>
-
-<br><br>
-
-### Animated Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Monster316/Monster316/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="./metrics/contribution-heatmap.svg" alt="Monster316 live GitHub contribution heatmap" width="100%" />
 </picture>
 
-<sub>The heatmap shows the full contribution history. The snake is an animated visualization that consumes the contribution cells while it plays.</sub>
+<sub>Generated directly from GitHub contribution data and refreshed automatically every day.</sub>
 
 </div>
 
@@ -133,24 +119,10 @@
 ## GITHUB PERFORMANCE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster316&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster316&theme=github" />
-  <img alt="Joyal Lasrado GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster316&theme=github" width="49%" />
+  <img src="./metrics/profile-metrics.svg" alt="Joyal Lasrado live GitHub performance metrics" width="100%" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Monster316&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Monster316&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&currStreakNum=24292F&sideNums=57606A&dates=6E7781" />
-  <img alt="Joyal Lasrado GitHub streak" src="https://streak-stats.demolab.com?user=Monster316&hide_border=true&background=00000000" width="49%" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster316&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster316&theme=github" />
-  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster316&theme=github" width="49%" />
-</picture>
+<sub>Current-year contributions, streaks, repositories and followers are generated from GitHub's own API.</sub>
 
 </div>
 
