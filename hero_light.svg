@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
+    <stop stop-color="#F8FAFC"/><stop offset=".48" stop-color="#EDF6FC"/><stop offset="1" stop-color="#ECFDF5"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#38BDF8"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .m{font-family:"Courier New",Consolas,monospace}.s{font-family:Arial,sans-serif}
+    .orb1{animation:o1 7s ease-in-out infinite}.orb2{animation:o2 9s ease-in-out infinite}
+    .scan{animation:scan 5.5s linear infinite}.cursor{animation:blink 1s steps(1) infinite}
+    .r1{opacity:0;animation:show .55s forwards .3s}.r2{opacity:0;animation:show .55s forwards .8s}
+    .r3{opacity:0;animation:show .55s forwards 1.3s}.r4{opacity:0;animation:show .55s forwards 1.8s}
+    .chip1{animation:pulse 3.2s ease-in-out infinite}.chip2{animation:pulse 3.2s ease-in-out .5s infinite}
+    .chip3{animation:pulse 3.2s ease-in-out 1s infinite}.chip4{animation:pulse 3.2s ease-in-out 1.5s infinite}
+    .chip5{animation:pulse 3.2s ease-in-out 2s infinite}
+    @keyframes show{to{opacity:1}}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes scan{from{transform:translateX(-450px)}to{transform:translateX(1200px)}}
+    @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+    @keyframes o1{0%,100%{transform:translate(0,0)}50%{transform:translate(35px,-18px)}}
+    @keyframes o2{0%,100%{transform:translate(0,0)}50%{transform:translate(-28px,20px)}}
+  </style>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1040" cy="60" r="170" fill="#0EA5E9" opacity=".08" class="orb1"/>
+<circle cx="1040" cy="300" r="150" fill="#10B981" opacity=".07" class="orb2"/>
+<path d="M0 305 C240 250 360 345 590 288 S950 240 1200 290" fill="none" stroke="#38BDF8" opacity=".12"/>
+<path d="M0 322 C260 275 380 350 620 305 S970 270 1200 315" fill="none" stroke="#34D399" opacity=".1"/>
+<rect x="36" y="28" width="1128" height="304" rx="22" fill="#FFFFFF" opacity=".85" stroke="#BBD2E2"/>
+<rect x="36" y="28" width="1128" height="36" rx="22" fill="#E8F1F8"/>
+<circle cx="65" cy="46" r="5" fill="#FB7185"/><circle cx="84" cy="46" r="5" fill="#FBBF24"/><circle cx="103" cy="46" r="5" fill="#22C55E"/>
+<text x="600" y="51" text-anchor="middle" class="m" font-size="13" fill="#475569">joyal@github  /  creative-profile</text>
+<rect x="-420" y="72" width="420" height="230" fill="#22D3EE" opacity=".025" class="scan"/>
+<text x="78" y="122" class="m r1" font-size="16" fill="#34D399">CREATIVE PROFILE // ONLINE</text>
+<text x="76" y="185" class="s r2" font-size="54" font-weight="800" fill="url(#neon)" filter="url(#glow)">JOYAL LASRADO</text>
+<text x="79" y="222" class="m r3" font-size="19" fill="#334155">@Monster316  •  Creative Technologist  •  Visual Storyteller</text>
+<text x="79" y="264" class="m r4" font-size="17" fill="#0F172A">&gt; Photography / Videography / Editing / Design / Web <tspan class="cursor">█</tspan></text>
+<g class="m" font-size="13">
+ <rect x="78" y="285" width="118" height="28" rx="14" fill="#EFF8FC" stroke="#22D3EE" class="chip1"/><text x="101" y="304" fill="#075985">PHOTO</text>
+ <rect x="207" y="285" width="118" height="28" rx="14" fill="#EFF8FC" stroke="#22D3EE" class="chip2"/><text x="231" y="304" fill="#075985">VIDEO</text>
+ <rect x="336" y="285" width="128" height="28" rx="14" fill="#EFF8FC" stroke="#22D3EE" class="chip3"/><text x="355" y="304" fill="#075985">EDITING</text>
+ <rect x="475" y="285" width="128" height="28" rx="14" fill="#EFF8FC" stroke="#34D399" class="chip4"/><text x="497" y="304" fill="#166534">DESIGN</text>
+ <rect x="614" y="285" width="102" height="28" rx="14" fill="#EFF8FC" stroke="#34D399" class="chip5"/><text x="641" y="304" fill="#166534">WEB</text>
+</g>
+<text x="1110" y="304" text-anchor="end" class="m" font-size="13" fill="#475569">BUILD • CREATE • SHIP</text>
+</svg>
