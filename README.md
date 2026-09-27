@@ -178,6 +178,47 @@ Web, design, media, and software projects will be added here as they are publish
 
 <div align="center">
 
+## CURRENTLY BUILDING
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### NP GROUPS
+Creative, digital and technology work across the NP ecosystem.
+
+**Branding · Media · Web · Digital Systems**
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### DESIGN DROPPER
+Growing a personal creative-tech brand for design, websites and digital experiences.
+
+**Design · WordPress · Frontend · Creative Direction**
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### SOFTWARE & AUTOMATION
+Building practical tools for business workflows, customer management and digital operations.
+
+**Supabase · Web Apps · Automation · GitHub**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<sub>FOCUS: CREATIVE TECHNOLOGY · DIGITAL PRODUCTS · VISUAL STORYTELLING</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
 [**DESIGN DROPPER**](https://designdropper.com) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**INSTAGRAM**](https://www.instagram.com/joyal_j_lasrado_) &nbsp;&nbsp;·&nbsp;&nbsp;
 [**FACEBOOK**](https://www.facebook.com/share/1Eti8xAp8K/)
