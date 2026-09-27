@@ -1,34 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Joyal Lasrado Creative Profile</title>
+<desc id="d">Minimal animated editorial banner</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="900" y2="360"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="900" y2="0"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#F97316"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#0067FF"/><stop offset="1" stop-color="#00A7C4"/>
+  </linearGradient>
   <style>
-    .ui{font-family:"Courier New",monospace}.display{font-family:Arial,sans-serif;font-weight:900}
-    .role{font:700 22px Arial,sans-serif;fill:#166534;letter-spacing:2px}
-    .r1{animation:r1 10s infinite}.r2{animation:r2 10s infinite}.r3{animation:r3 10s infinite}.r4{animation:r4 10s infinite}.r5{animation:r5 10s infinite}
-    .scan{animation:scan 5s linear infinite}.pulse{animation:pulse 3.5s ease-in-out infinite}.dash{stroke-dasharray:8 14;animation:dash 8s linear infinite}
-    @keyframes scan{from{transform:translateX(-280px)}to{transform:translateX(920px)}} @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
-    @keyframes dash{to{stroke-dashoffset:-220}}
-    @keyframes r1{0%,16%{opacity:1;transform:translateY(0)}20%,100%{opacity:0;transform:translateY(-6px)}}
-    @keyframes r2{0%,18%{opacity:0}20%,36%{opacity:1}40%,100%{opacity:0}}
-    @keyframes r3{0%,38%{opacity:0}40%,56%{opacity:1}60%,100%{opacity:0}}
-    @keyframes r4{0%,58%{opacity:0}60%,76%{opacity:1}80%,100%{opacity:0}}
-    @keyframes r5{0%,78%{opacity:0}80%,96%{opacity:1}100%{opacity:0}}
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .mono{font-family:"Courier New",monospace}
+    .name{font-size:82px;font-weight:800;letter-spacing:-4px;fill:#0D1117}
+    .eyebrow{font-size:14px;font-weight:700;letter-spacing:3px;fill:#0067FF}
+    .sub{font-size:20px;fill:#4B5563}
+    .small{font-size:13px;letter-spacing:1.5px;fill:#6B7280}
+    .line{animation:grow 5s ease-in-out infinite;transform-origin:180px 257px}
+    .r1{animation:r1 12s ease-in-out infinite}
+    .r2{animation:r2 12s ease-in-out infinite}
+    .r3{animation:r3 12s ease-in-out infinite}
+    .dot{animation:pulse 1.8s ease-in-out infinite}
+    @keyframes grow{0%,100%{transform:scaleX(.12)}50%{transform:scaleX(1)}}
+    @keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+    @keyframes r1{0%,27%{opacity:1}33%,94%{opacity:0}100%{opacity:1}}
+    @keyframes r2{0%,27%{opacity:0}33%,60%{opacity:1}66%,100%{opacity:0}}
+    @keyframes r3{0%,60%{opacity:0}66%,94%{opacity:1}100%{opacity:0}}
   </style>
 </defs>
-<rect width="900" height="360" rx="28" fill="url(#bg)"/>
-<g opacity=".18"><path d="M0 70H900M0 140H900M0 210H900M0 280H900" stroke="#475569"/><path d="M130 0V360M260 0V360M390 0V360M520 0V360M650 0V360M780 0V360" stroke="#475569"/></g>
-<rect x="34" y="28" width="832" height="304" rx="24" fill="none" stroke="#CBD5E1"/>
-<rect x="54" y="48" width="10" height="10" rx="5" fill="#22D3EE" class="pulse"/><text x="77" y="58" class="ui" font-size="13" fill="#0369A1">MONSTER316 / CREATIVE PROFILE</text>
-<text x="56" y="148" class="display" font-size="74" fill="#0F172A">JOYAL</text>
-<text x="56" y="216" class="display" font-size="74" fill="url(#accent)">LASRADO</text>
-<line x1="58" y1="238" x2="810" y2="238" stroke="url(#accent)" stroke-width="3"/>
-<g transform="translate(58 274)">
- <text class="role r1">VISUAL STORYTELLER</text><text class="role r2">VIDEO EDITOR</text><text class="role r3">GRAPHIC DESIGNER</text><text class="role r4">WEB CREATOR</text><text class="role r5">PHOTOGRAPHER</text>
+
+<rect width="1200" height="360" rx="28" fill="#FFFFFF"/>
+<rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#E5E7EB"/>
+
+<text x="70" y="62" class="sans eyebrow">CREATIVE PROFILE / 2026</text>
+
+<text x="66" y="160" class="sans name">JOYAL LASRADO</text>
+
+<g class="sans sub">
+  <text x="72" y="214" class="r1">Visual Storyteller · Photographer · Videographer</text>
+  <text x="72" y="214" class="r2">Video Editor · Graphic Designer · Creative Technologist</text>
+  <text x="72" y="214" class="r3">Web Creator · Digital Designer · Visual Problem Solver</text>
 </g>
-<text x="58" y="312" class="ui" font-size="14" fill="#475569">CREATE • DESIGN • EDIT • BUILD</text>
-<path d="M600 95 C680 45, 795 70, 835 145 C870 212, 820 280, 735 286" fill="none" stroke="url(#accent)" stroke-width="2" class="dash"/>
-<circle cx="737" cy="286" r="7" fill="#F97316" filter="url(#glow)" class="pulse"/>
-<rect x="-250" y="74" width="220" height="2" fill="#22D3EE" opacity=".5" class="scan"/>
+
+<rect x="72" y="254" width="690" height="4" rx="2" fill="#E5E7EB"/>
+<rect x="72" y="254" width="690" height="4" rx="2" fill="url(#accent)" class="line"/>
+
+<text x="72" y="302" class="mono small">PHOTOGRAPHY  /  MOTION  /  DESIGN  /  WEB</text>
+
+<circle cx="1090" cy="57" r="5" fill="#00A7C4" class="dot"/>
+<text x="1110" y="62" class="mono small">AVAILABLE</text>
+
+<text x="920" y="309" class="mono small">MONSTER316</text>
 </svg>
