@@ -21,27 +21,32 @@
     .first,.last{font-size:86px;font-weight:800;letter-spacing:-4px;fill:#F5F7FA}
     .role{font-size:20px;font-weight:700;letter-spacing:2px;fill:#77F2BD}
     .meta{font-size:14px;fill:#96A8BA}
-    .skillNo{font-size:12px;letter-spacing:1px;fill:#34D5FF}
-    .skillTitle{font-size:16px;font-weight:700;letter-spacing:.6px;fill:#DCE8F2}
-    .skillSub{font-size:10px;letter-spacing:.5px;fill:#8FA1B5}
+    .stackTitle{font-size:12px;letter-spacing:3px;fill:#34D5FF}
+    .skillNo{font-size:11px;letter-spacing:1px;fill:#34D5FF}
+    .skillTitle{font-size:18px;font-weight:700;letter-spacing:.4px;fill:#EAF4FB}
+    .skillSub{font-size:10px;letter-spacing:.6px;fill:#8EA3B7}
     .status{font-size:12px;letter-spacing:2px;fill:#34D5FF}
     .bar{animation:bar 6s ease-in-out infinite;transform-origin:left center}
     .blink{animation:blink 1.4s steps(1) infinite}
     .r1{animation:r1 12s infinite}.r2{animation:r2 12s infinite}.r3{animation:r3 12s infinite}.r4{animation:r4 12s infinite}
-    .sk1{animation:sk1 15s infinite}.sk2{animation:sk2 15s infinite}.sk3{animation:sk3 15s infinite}.sk4{animation:sk4 15s infinite}.sk5{animation:sk5 15s infinite}
-    .scan{animation:scan 15s ease-in-out infinite}
+    .a1{animation:a1 12s infinite}.a2{animation:a2 12s infinite}.a3{animation:a3 12s infinite}.a4{animation:a4 12s infinite}.a5{animation:a5 12s infinite}
+    .p1{animation:p1 12s infinite;transform-origin:left center}.p2{animation:p2 12s infinite;transform-origin:left center}.p3{animation:p3 12s infinite;transform-origin:left center}.p4{animation:p4 12s infinite;transform-origin:left center}.p5{animation:p5 12s infinite;transform-origin:left center}
     @keyframes bar{0%,100%{transform:scaleX(.18)}50%{transform:scaleX(1)}}
     @keyframes blink{0%,50%{opacity:1}51%,100%{opacity:.2}}
     @keyframes r1{0%,20%{opacity:1}25%,100%{opacity:0}}
     @keyframes r2{0%,24%{opacity:0}25%,45%{opacity:1}50%,100%{opacity:0}}
     @keyframes r3{0%,49%{opacity:0}50%,70%{opacity:1}75%,100%{opacity:0}}
     @keyframes r4{0%,74%{opacity:0}75%,95%{opacity:1}100%{opacity:0}}
-    @keyframes sk1{0%,16%{opacity:1;transform:translateX(0)}20%,100%{opacity:.45;transform:translateX(4px)}}
-    @keyframes sk2{0%,19%{opacity:.45;transform:translateX(4px)}20%,36%{opacity:1;transform:translateX(0)}40%,100%{opacity:.45;transform:translateX(4px)}}
-    @keyframes sk3{0%,39%{opacity:.45;transform:translateX(4px)}40%,56%{opacity:1;transform:translateX(0)}60%,100%{opacity:.45;transform:translateX(4px)}}
-    @keyframes sk4{0%,59%{opacity:.45;transform:translateX(4px)}60%,76%{opacity:1;transform:translateX(0)}80%,100%{opacity:.45;transform:translateX(4px)}}
-    @keyframes sk5{0%,79%{opacity:.45;transform:translateX(4px)}80%,96%{opacity:1;transform:translateX(0)}100%{opacity:.45;transform:translateX(4px)}}
-    @keyframes scan{0%,16%{transform:translateY(0)}20%,36%{transform:translateY(47px)}40%,56%{transform:translateY(94px)}60%,76%{transform:translateY(141px)}80%,96%{transform:translateY(188px)}100%{transform:translateY(0)}}
+    @keyframes a1{0%,18%{opacity:1}20%,100%{opacity:.38}}
+    @keyframes a2{0%,19%{opacity:.38}20%,38%{opacity:1}40%,100%{opacity:.38}}
+    @keyframes a3{0%,39%{opacity:.38}40%,58%{opacity:1}60%,100%{opacity:.38}}
+    @keyframes a4{0%,59%{opacity:.38}60%,78%{opacity:1}80%,100%{opacity:.38}}
+    @keyframes a5{0%,79%{opacity:.38}80%,98%{opacity:1}100%{opacity:.38}}
+    @keyframes p1{0%,18%{transform:scaleX(1)}20%,100%{transform:scaleX(.22)}}
+    @keyframes p2{0%,19%{transform:scaleX(.22)}20%,38%{transform:scaleX(1)}40%,100%{transform:scaleX(.22)}}
+    @keyframes p3{0%,39%{transform:scaleX(.22)}40%,58%{transform:scaleX(1)}60%,100%{transform:scaleX(.22)}}
+    @keyframes p4{0%,59%{transform:scaleX(.22)}60%,78%{transform:scaleX(1)}80%,100%{transform:scaleX(.22)}}
+    @keyframes p5{0%,79%{transform:scaleX(.22)}80%,98%{transform:scaleX(1)}100%{transform:scaleX(.22)}}
   </style>
 </defs>
 
@@ -69,38 +74,49 @@
 
 <rect x="48" y="291" width="540" height="3" rx="2" fill="url(#accent)" class="bar"/>
 
-<!-- animated skills panel -->
-<rect x="822" y="77" width="315" height="215" rx="16" fill="#0D1623" opacity=".54" stroke="#26384B" stroke-width="1"/>
-<rect x="832" y="88" width="4" height="36" rx="2" fill="#34D5FF" class="scan"/>
+<!-- premium creative stack -->
+<text x="835" y="92" class="mono stackTitle">CREATIVE STACK</text>
 
-<g class="sk1">
-  <text x="850" y="98" class="mono skillNo">01</text>
-  <text x="886" y="99" class="sans skillTitle">PHOTOGRAPHY</text>
-  <text x="886" y="116" class="mono skillSub">PORTRAIT · EVENT · PRODUCT</text>
-</g>
-<g class="sk2">
-  <text x="850" y="145" class="mono skillNo">02</text>
-  <text x="886" y="146" class="sans skillTitle">VIDEOGRAPHY</text>
-  <text x="886" y="163" class="mono skillSub">EVENT · REELS · COVERAGE</text>
-</g>
-<g class="sk3">
-  <text x="850" y="192" class="mono skillNo">03</text>
-  <text x="886" y="193" class="sans skillTitle">VIDEO EDITING</text>
-  <text x="886" y="210" class="mono skillSub">STORY · PACE · POST</text>
-</g>
-<g class="sk4">
-  <text x="850" y="239" class="mono skillNo">04</text>
-  <text x="886" y="240" class="sans skillTitle">GRAPHIC DESIGN</text>
-  <text x="886" y="257" class="mono skillSub">BRAND · SOCIAL · CAMPAIGN</text>
-</g>
-<g class="sk5">
-  <text x="850" y="286" class="mono skillNo">05</text>
-  <text x="886" y="287" class="sans skillTitle">WEB / DIGITAL</text>
-  <text x="886" y="304" class="mono skillSub">WORDPRESS · WEB · SYSTEMS</text>
+<g class="a1">
+  <text x="835" y="128" class="mono skillNo">01</text>
+  <text x="875" y="128" class="sans skillTitle">PHOTOGRAPHY</text>
+  <text x="875" y="145" class="mono skillSub">PORTRAIT / EVENT / PRODUCT</text>
+  <rect x="875" y="154" width="245" height="3" rx="2" fill="#213244"/>
+  <rect x="875" y="154" width="245" height="3" rx="2" fill="#34D5FF" class="p1"/>
 </g>
 
-<circle cx="1008" cy="327" r="4" fill="#34D5FF" class="blink"/>
-<text x="1024" y="332" class="mono status">AVAILABLE / ONLINE</text>
+<g class="a2">
+  <text x="835" y="174" class="mono skillNo">02</text>
+  <text x="875" y="174" class="sans skillTitle">VIDEOGRAPHY</text>
+  <text x="875" y="191" class="mono skillSub">EVENT / REELS / COVERAGE</text>
+  <rect x="875" y="200" width="245" height="3" rx="2" fill="#213244"/>
+  <rect x="875" y="200" width="245" height="3" rx="2" fill="#77F2BD" class="p2"/>
+</g>
+
+<g class="a3">
+  <text x="835" y="220" class="mono skillNo">03</text>
+  <text x="875" y="220" class="sans skillTitle">VIDEO EDITING</text>
+  <text x="875" y="237" class="mono skillSub">STORY / PACE / POST</text>
+  <rect x="875" y="246" width="245" height="3" rx="2" fill="#213244"/>
+  <rect x="875" y="246" width="245" height="3" rx="2" fill="#FF8A4C" class="p3"/>
+</g>
+
+<g class="a4">
+  <text x="835" y="266" class="mono skillNo">04</text>
+  <text x="875" y="266" class="sans skillTitle">GRAPHIC DESIGN</text>
+  <text x="875" y="283" class="mono skillSub">BRAND / SOCIAL / CAMPAIGN</text>
+  <rect x="875" y="292" width="245" height="3" rx="2" fill="#213244"/>
+  <rect x="875" y="292" width="245" height="3" rx="2" fill="#34D5FF" class="p4"/>
+</g>
+
+<g class="a5">
+  <text x="835" y="312" class="mono skillNo">05</text>
+  <text x="875" y="312" class="sans skillTitle">WEB / DIGITAL</text>
+  <text x="875" y="329" class="mono skillSub">WORDPRESS / WEB / SYSTEMS</text>
+</g>
+
+<circle cx="1008" cy="345" r="4" fill="#34D5FF" class="blink"/>
+<text x="1024" y="350" class="mono status">AVAILABLE / ONLINE</text>
 
 <text x="48" y="332" class="mono meta">KARKALA · KARNATAKA · INDIA</text>
 </svg>
