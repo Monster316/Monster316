@@ -14,10 +14,27 @@
 
 <br>
 
+<div align="center">
+
+### SOFTWARE & DIGITAL TOOLS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,wordpress,html,css,github,supabase" alt="Photoshop, Premiere Pro, After Effects, Figma, WordPress, HTML, CSS, GitHub, Supabase" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
+</div>
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./stack_dark_v5.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./stack_light_v5.svg" />
-  <img alt="Joyal Lasrado creative stack" src="./stack_dark_v5.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./experience_dark_v6.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./experience_light_v6.svg" />
+  <img alt="Animated creative experience bars" src="./experience_dark_v6.svg" width="100%" />
 </picture>
 
 <br>
