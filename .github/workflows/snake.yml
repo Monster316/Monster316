@@ -1,4 +1,5 @@
 name: Generate Contribution Snake
+# refreshed after activity sync
 
 on:
   schedule:
