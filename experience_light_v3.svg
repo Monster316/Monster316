@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img">
+<defs>
+  <style>
+    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .mono{font-family:Consolas,Courier New,monospace}
+    .kicker{font-size:13px;letter-spacing:3px;fill:#34D5FF}
+    .title{font-size:30px;font-weight:800;fill:#111827}
+    .skill{font-size:18px;font-weight:700;fill:#111827}
+    .sub{font-size:12px;letter-spacing:.5px;fill:#667085}
+    .pct{font-size:14px;font-weight:700;fill:#667085}
+    .b1{animation:b1 7s ease-in-out infinite;transform-origin:left center}
+    .b2{animation:b2 7s ease-in-out infinite;transform-origin:left center}
+    .b3{animation:b3 7s ease-in-out infinite;transform-origin:left center}
+    .b4{animation:b4 7s ease-in-out infinite;transform-origin:left center}
+    .b5{animation:b5 7s ease-in-out infinite;transform-origin:left center}
+    .b6{animation:b6 7s ease-in-out infinite;transform-origin:left center}
+    .pulse{animation:pulse 1.8s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes b1{0%{transform:scaleX(.05)}35%,100%{transform:scaleX(.95)}}
+    @keyframes b2{0%,5%{transform:scaleX(.05)}40%,100%{transform:scaleX(.90)}}
+    @keyframes b3{0%,10%{transform:scaleX(.05)}45%,100%{transform:scaleX(.92)}}
+    @keyframes b4{0%,15%{transform:scaleX(.05)}50%,100%{transform:scaleX(.89)}}
+    @keyframes b5{0%,20%{transform:scaleX(.05)}55%,100%{transform:scaleX(.78)}}
+    @keyframes b6{0%,25%{transform:scaleX(.05)}60%,100%{transform:scaleX(.84)}}
+  </style>
+</defs>
+
+<rect width="1200" height="560" fill="#F7F8FA"/>
+<rect x="28" y="24" width="1144" height="512" rx="28" fill="#FFFFFF" stroke="#D8E1E8" stroke-width="2"/>
+
+<text x="64" y="70" class="mono kicker">EXPERIENCE / CREATIVE STRENGTHS</text>
+<text x="64" y="116" class="sans title">HOW I WORK ACROSS VISUAL + DIGITAL</text>
+<line x1="64" y1="138" x2="1135" y2="138" stroke="#D8E1E8"/>
+
+<!-- 1 -->
+<text x="64" y="186" class="sans skill">PHOTOGRAPHY</text>
+<text x="64" y="207" class="mono sub">PORTRAIT · EVENT · PRODUCT · VISUAL STORYTELLING</text>
+<rect x="485" y="178" width="560" height="9" rx="5" fill="#E5E7EB"/>
+<rect x="485" y="178" width="560" height="9" rx="5" fill="#34D5FF" class="b1"/>
+<text x="1060" y="188" class="mono pct">95%</text>
+
+<!-- 2 -->
+<text x="64" y="246" class="sans skill">VIDEOGRAPHY</text>
+<text x="64" y="267" class="mono sub">EVENTS · REELS · MEDIA COVERAGE · PROMO</text>
+<rect x="485" y="238" width="560" height="9" rx="5" fill="#E5E7EB"/>
+<rect x="485" y="238" width="560" height="9" rx="5" fill="#77F2BD" class="b2"/>
+<text x="1060" y="248" class="mono pct">90%</text>
+
+<!-- 3 -->
+<text x="64" y="306" class="sans skill">VIDEO EDITING</text>
+<text x="64" y="327" class="mono sub">STORY · PACE · YOUTUBE · SHORT-FORM · PROMOTIONAL</text>
+<rect x="485" y="298" width="560" height="9" rx="5" fill="#E5E7EB"/>
+<rect x="485" y="298" width="560" height="9" rx="5" fill="#FF8A4C" class="b3"/>
+<text x="1060" y="308" class="mono pct">92%</text>
+
+<!-- 4 -->
+<text x="64" y="366" class="sans skill">GRAPHIC DESIGN</text>
+<text x="64" y="387" class="mono sub">BRANDING · POSTERS · THUMBNAILS · CAMPAIGNS</text>
+<rect x="485" y="358" width="560" height="9" rx="5" fill="#E5E7EB"/>
+<rect x="485" y="358" width="560" height="9" rx="5" fill="#34D5FF" class="b4"/>
+<text x="1060" y="368" class="mono pct">89%</text>
+
+<!-- 5 -->
+<text x="64" y="426" class="sans skill">WEB DEVELOPMENT</text>
+<text x="64" y="447" class="mono sub">WORDPRESS · HTML/CSS · PORTFOLIOS · DIGITAL EXPERIENCES</text>
+<rect x="485" y="418" width="560" height="9" rx="5" fill="#E5E7EB"/>
+<rect x="485" y="418" width="560" height="9" rx="5" fill="#77F2BD" class="b5"/>
+<text x="1060" y="428" class="mono pct">78%</text>
+
+<!-- 6 -->
+<text x="64" y="486" class="sans skill">CREATIVE DIRECTION</text>
+<text x="64" y="507" class="mono sub">CONCEPT · VISUAL SYSTEM · PRESENTATION · EXECUTION</text>
+<rect x="485" y="478" width="560" height="9" rx="5" fill="#E5E7EB"/>
+<rect x="485" y="478" width="560" height="9" rx="5" fill="#FF8A4C" class="b6"/>
+<text x="1060" y="488" class="mono pct">84%</text>
+
+<circle cx="1095" cy="70" r="4" fill="#34D5FF" class="pulse"/>
+<text x="1110" y="74" class="mono sub">ACTIVE</text>
+</svg>
