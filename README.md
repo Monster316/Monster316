@@ -16,30 +16,63 @@
 
 <div align="center">
 
-### SOFTWARE & DIGITAL TOOLS
+## CREATIVE STACK
 
-<br>
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=ps" width="46" alt="Photoshop"><br>
+<b>Photoshop</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=pr" width="46" alt="Premiere Pro"><br>
+<b>Premiere Pro</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=ae" width="46" alt="After Effects"><br>
+<b>After Effects</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" width="46" alt="Lightroom"><br>
+<b>Lightroom</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=figma" width="46" alt="Figma"><br>
+<b>Figma</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" />
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=wordpress" width="46" alt="WordPress"><br>
+<b>WordPress</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="46" alt="HTML5"><br>
+<b>HTML5</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="46" alt="CSS3"><br>
+<b>CSS3</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub"><br>
+<b>GitHub</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="46" alt="Supabase"><br>
+<b>Supabase</b>
+</td>
+</tr>
 
-<br>
-
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-
-<br>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="46" alt="Canva"><br>
+<b>Canva</b>
+</td>
+<td colspan="4"></td>
+</tr>
+</table>
 
 </div>
 
