@@ -6,6 +6,20 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Creative+Technologist+%7C+Visual+Storyteller;Video+Editor+%7C+Designer+%7C+Web+Builder;Building+Digital+Experiences+with+Purpose" alt="Animated typing introduction" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CREATIVE-TECHNOLOGIST-111111?style=for-the-badge" alt="Creative Technologist" />
+<img src="https://img.shields.io/badge/VISUAL-STORYTELLER-111111?style=for-the-badge" alt="Visual Storyteller" />
+<img src="https://img.shields.io/badge/DIGITAL-BUILDER-111111?style=for-the-badge" alt="Digital Builder" />
+
+</div>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./story_dark_v5.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./story_light_v5.svg" />
