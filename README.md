@@ -33,7 +33,8 @@
 <b>After Effects</b>
 </td>
 <td align="center" width="20%">
-<img src="./lightroom_logo.svg" width="46" alt="Lightroom"><br>\n<b>Lightroom</b>
+<img src="./lightroom_logo.svg" width="54" alt="Adobe Lightroom"><br>
+<b>Lightroom</b>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=figma" width="46" alt="Figma"><br>
