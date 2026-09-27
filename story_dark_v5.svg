@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+<style>
+.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Courier New,monospace}
+.k{font-size:12px;letter-spacing:3px;fill:#34D5FF}
+.h1{font-size:54px;font-weight:800;fill:#F7FAFC}
+.h2{font-size:22px;font-weight:800;fill:#F7FAFC}
+.b{font-size:17px;fill:#94A3B8}
+.sm{font-size:13px;fill:#94A3B8}
+.tag{font-size:13px;font-weight:700;fill:#77F2BD}
+.dot{animation:p 1.8s ease-in-out infinite}
+.t1{animation:a1 8s infinite}.t2{animation:a2 8s infinite}.t3{animation:a3 8s infinite}.t4{animation:a4 8s infinite}
+@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}
+@keyframes a1{0%,20%{opacity:1}25%,100%{opacity:.4}}
+@keyframes a2{0%,24%{opacity:.4}25%,45%{opacity:1}50%,100%{opacity:.4}}
+@keyframes a3{0%,49%{opacity:.4}50%,70%{opacity:1}75%,100%{opacity:.4}}
+@keyframes a4{0%,74%{opacity:.4}75%,95%{opacity:1}100%{opacity:.4}}
+</style>
+</defs>
+<rect width="1200" height="760" fill="#05070C"/>
+<rect x="24" y="24" width="1152" height="712" rx="30" fill="#09111C" stroke="#243447" stroke-width="2"/>
+
+<text x="64" y="72" class="m k">STORY / EXPERIENCE</text>
+<text x="64" y="142" class="s h1">I CREATE ACROSS</text>
+<text x="64" y="198" class="s h1">CAMERA, EDIT, DESIGN &amp; DIGITAL.</text>
+<text x="64" y="242" class="s b">A multidisciplinary creative practice focused on visual storytelling, polished execution and strong brand presentation.</text>
+
+<!-- current role -->
+<rect x="64" y="286" width="520" height="132" rx="22" fill="#0F1B29"/>
+<text x="88" y="320" class="m sm">CURRENT / 01</text>
+<text x="88" y="356" class="s h2">NP GROUPS</text>
+<text x="88" y="382" class="s tag">CREATIVE · DIGITAL · BRAND COMMUNICATION</text>
+<text x="88" y="406" class="s sm">Umbrella organization behind the NP ventures.</text>
+
+<!-- personal brand -->
+<rect x="610" y="286" width="526" height="132" rx="22" fill="#0F1B29"/>
+<text x="634" y="320" class="m sm">OWN BRAND / 02</text>
+<text x="634" y="356" class="s h2">DESIGN DROPPER</text>
+<text x="634" y="382" class="s tag">IDENTITY · GRAPHIC DESIGN · WEB</text>
+<text x="634" y="406" class="s sm">Personal creative platform for visual and digital work.</text>
+
+<!-- timeline -->
+<text x="64" y="478" class="m k">SELECTED EXPERIENCE</text>
+<line x1="92" y1="520" x2="92" y2="682" stroke="#243447" stroke-width="3"/>
+
+<g class="t1">
+<circle cx="92" cy="530" r="7" fill="#34D5FF"/>
+<text x="126" y="536" class="s h2">NP GROUPS</text>
+<text x="520" y="536" class="s sm">Creative / Digital / Brand Communication</text>
+</g>
+<g class="t2">
+<circle cx="92" cy="578" r="7" fill="#77F2BD"/>
+<text x="126" y="584" class="s h2">DESIGN DROPPER</text>
+<text x="520" y="584" class="s sm">Brand / Design / Web</text>
+</g>
+<g class="t3">
+<circle cx="92" cy="626" r="7" fill="#FF8A4C"/>
+<text x="126" y="632" class="s h2">NAMMUR EXPRESS</text>
+<text x="520" y="632" class="s sm">Videography / Editing / Media Content</text>
+</g>
+<g class="t4">
+<circle cx="92" cy="674" r="7" fill="#34D5FF"/>
+<text x="126" y="680" class="s h2">EVENT &amp; CULTURAL VISUALS</text>
+<text x="520" y="680" class="s sm">Photography / Video / Motion / Thumbnails</text>
+</g>
+
+<circle cx="1090" cy="74" r="4" fill="#34D5FF" class="dot"/>
+<text x="1104" y="79" class="m sm">ACTIVE</text>
+</svg>
