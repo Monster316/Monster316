@@ -89,15 +89,16 @@ def level(count, positives):
         return 0
     if not positives:
         return 1
-    maxv = max(positives)
-    if maxv <= 1:
-        return 4
-    ratio = count / maxv
-    if ratio <= 0.25:
+    values = sorted(positives)
+    def q(p):
+        idx = min(len(values) - 1, max(0, int((len(values) - 1) * p)))
+        return values[idx]
+    q1, q2, q3 = q(0.25), q(0.50), q(0.75)
+    if count <= q1:
         return 1
-    if ratio <= 0.50:
+    if count <= q2:
         return 2
-    if ratio <= 0.75:
+    if count <= q3:
         return 3
     return 4
 
