@@ -1,15 +1,30 @@
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+  <img src="https://avatars.githubusercontent.com/u/128443856?v=4" width="230" alt="Joyal Lasrado"/>
+  <br><br>
+  <b>JOYAL LASRADO</b><br>
+  <sub>Monster316</sub>
+</td>
+<td width="70%" valign="middle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+    <img src="./dark_mode.svg" width="100%" alt="Joyal Lasrado creative profile">
+  </picture>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./hero_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./hero_light.svg">
-  <img src="./hero_dark.svg" width="100%" alt="Joyal Lasrado creative profile">
-</picture>
+### VISUALS × MOTION × DESIGN × DIGITAL
 
-<br>
-
-<a href="https://designdropper.com"><img src="https://img.shields.io/badge/PORTFOLIO-DESIGN%20DROPPER-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.instagram.com/joyal_j_lasrado_"><img src="https://img.shields.io/badge/INSTAGRAM-@joyal__j__lasrado-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://designdropper.com"><b>DESIGN DROPPER</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.instagram.com/joyal_j_lasrado_"><b>INSTAGRAM</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1Eti8xAp8K/"><b>FACEBOOK</b></a>
 
 </div>
 
@@ -17,84 +32,42 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
-
-### ✦ Creative Direction
-
-I build **visual-first digital experiences** across photography, video, editing, graphic design and the web.
-
-My focus is simple: make the work **look premium, communicate clearly, and feel memorable**.
-
-```text
-creative_engine  : ONLINE
-visual_system    : ACTIVE
-portfolio_mode   : BUILDING
-next_release     : SOMETHING BETTER
-```
-
+<td width="33%" valign="top">
+<h3>01 — VISUAL</h3>
+Photography<br>
+Videography<br>
+Event Films<br>
+Cinematic Reels
 </td>
-<td width="48%" valign="top">
-
-### ⚡ Core Stack
-
-**VISUAL**
-<br>
-Photography · Videography · Video Editing
-
-**DESIGN**
-<br>
-Graphic Design · Posters · Thumbnails · Brand Visuals
-
-**DIGITAL**
-<br>
-WordPress · Web Development · Creative Solutions
-
+<td width="33%" valign="top">
+<h3>02 — POST</h3>
+Video Editing<br>
+Motion Content<br>
+Thumbnails<br>
+Social Creatives
+</td>
+<td width="33%" valign="top">
+<h3>03 — DIGITAL</h3>
+Graphic Design<br>
+WordPress<br>
+Web Development<br>
+Creative Solutions
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
 
-### SELECTED CREATIVE LANES
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🎬 MOTION</h3>
-Video editing, reels, event films and cinematic storytelling.
-</td>
-<td align="center" width="33%">
-<h3>◈ VISUAL</h3>
-Brand creatives, posters, thumbnails and campaign design.
-</td>
-<td align="center" width="33%">
-<h3>⌘ DIGITAL</h3>
-Web experiences, WordPress and practical digital solutions.
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### GITHUB // SIGNAL
-
-<img src="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true" height="165">
+> **I build visual experiences that feel sharp, cinematic and memorable.**
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Monster316&hide_border=true" width="720">
+<img src="https://github-readme-stats.vercel.app/api?username=Monster316&show_icons=true&hide_border=true&hide_title=true" height="145">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster316&layout=compact&hide_border=true&hide_title=true" height="145">
 
 <br><br>
-
-`CREATE`  •  `DESIGN`  •  `EDIT`  •  `BUILD`
-
-<sub>Joyal Lasrado // Monster316</sub>
+<sub>JOYAL LASRADO / MONSTER316</sub>
 
 </div>
