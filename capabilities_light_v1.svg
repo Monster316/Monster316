@@ -48,7 +48,18 @@
 <!-- DIRECTION -->
 <text x="64" y="598" class="mono secno">05</text><text x="112" y="599" class="sans sectitle">CURRENT DIRECTION</text>
 <line x1="64" y1="618" x2="1135" y2="618" stroke="#D8E1E8"/>
-<circle cx="72" cy="658" r="5" fill="#77F2BD" class="pulse"/><text x="92" y="663" class="sans status">VISUAL STORYTELLING / ACTIVE</text>
-<rect x="410" y="651" width="610" height="4" rx="2" fill="#D8E1E8"/><rect x="410" y="651" width="610" height="4" rx="2" fill="#34D5FF" class="move"/>
-<text x="64" y="710" class="sans body">Building work that feels more cinematic, intentional and recognisable across video, design and digital media.</text>
+
+<rect x="64" y="642" width="300" height="44" rx="12" fill="#EFF3F6" stroke="#D8E1E8"/>
+<circle cx="86" cy="664" r="5" fill="#77F2BD" class="pulse"/>
+<text x="103" y="669" class="sans status">VISUAL STORYTELLING</text>
+
+<rect x="382" y="642" width="300" height="44" rx="12" fill="#EFF3F6" stroke="#D8E1E8"/>
+<circle cx="404" cy="664" r="5" fill="#34D5FF" class="pulse"/>
+<text x="421" y="669" class="sans status">CREATIVE TECHNOLOGY</text>
+
+<rect x="700" y="642" width="400" height="44" rx="12" fill="#EFF3F6" stroke="#D8E1E8"/>
+<circle cx="722" cy="664" r="5" fill="#FDE68A" class="pulse"/>
+<text x="739" y="669" class="sans status">DIGITAL EXPERIENCES</text>
+
+<text x="64" y="716" class="sans body">Building cinematic, intentional and recognisable work across video, design, web and digital media.</text>
 </svg>
