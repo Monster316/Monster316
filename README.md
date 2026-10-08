@@ -269,11 +269,11 @@ Creative and digital-solutions work spanning branded content, WordPress websites
 
 [**EXPLORE ALL FIVE DEVELOPER TOOLS →**](./projects/README.md)
 
-### [ProofDeck — Claim-to-Evidence Checker](./projects/proofdeck/README.md)
+### [ProofDeck — Claim-to-Evidence Checker](https://github.com/Monster316/ProofDeck)
 
 A zero-dependency JavaScript CLI prototype that checks whether documented project claims have matching file or text evidence. Reports **PASS / FAIL / UNKNOWN** without running untrusted project commands.
 
-[**SOURCE CODE →**](./projects/proofdeck/proofdeck.mjs) &nbsp;·&nbsp; [**TESTS →**](./projects/proofdeck/proofdeck.test.mjs) &nbsp;·&nbsp; [**GETTING STARTED →**](./projects/proofdeck/README.md)
+[**SOURCE CODE →**](https://github.com/Monster316/ProofDeck/blob/main/proofdeck.mjs) &nbsp;·&nbsp; [**TESTS →**](https://github.com/Monster316/ProofDeck/blob/main/proofdeck.test.mjs) &nbsp;·&nbsp; [**GETTING STARTED →**](https://github.com/Monster316/ProofDeck)
 
 *Experimental developer tools built as standalone examples. Not a claim of being the world's first.*
 
