@@ -182,11 +182,66 @@ A public repository inside the Design Dropper ecosystem and part of my growing c
 </tr>
 </table>
 
-<sub>Only public work is featured here. Private client and internal business projects are intentionally excluded.</sub>
+<sub>Public repositories are linked above. Client software is described at a high level without releasing proprietary code or private data.</sub>
 
 </div>
 
 <br>
+
+<div align="center">
+
+## SELECTED BUSINESS SOFTWARE
+
+*Real-world applications and workflow systems developed for business operations. Project descriptions only — production source code, customer information, and internal infrastructure remain private.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### NP Gruha Samruddhi Scheme
+Customer savings-scheme management for electronics and furniture retail.
+
+**Modules:** Customer onboarding · 12-month installments · Receipts · Maturity benefits · Role-based access · Audit trails · Reporting
+
+**Focus:** Business applications · PWA · Operational automation
+
+</td>
+<td width="50%" valign="top">
+
+### NP Chill Station POS
+A café billing and operations solution with kitchen order tickets and separate AC/non-AC pricing.
+
+**Modules:** Billing · KOT · Supplier and customer balances · Attendance · Staff permissions · Receipt customization
+
+**Focus:** Point of sale · Hospitality workflows · Business software
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### NP Staff Hub
+Workforce attendance and staff coordination application designed around a biometric punch system.
+
+**Modules:** Attendance visibility · Late-arrival reasons · Leave requests · Weekly-off approval · Team communication
+
+**Focus:** Workforce management · Access control integration
+
+</td>
+<td width="50%" valign="top">
+
+### Design Dropper
+Creative and digital-solutions work spanning branded content, WordPress websites, editing, visual design, and bespoke software.
+
+**Services:** Video editing · Motion graphics · Branding · WordPress · Business software
+
+[**Explore Design Dropper →**](https://designdropper.com)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
