@@ -265,6 +265,22 @@ Creative and digital-solutions work spanning branded content, WordPress websites
 
 <div align="center">
 
+## DEVELOPER TOOL LAB
+
+### [ProofDeck — Claim-to-Evidence Checker](./projects/proofdeck/README.md)
+
+A zero-dependency JavaScript CLI prototype that checks whether documented project claims have matching file or text evidence. Reports **PASS / FAIL / UNKNOWN** without running untrusted project commands.
+
+[**SOURCE CODE →**](./projects/proofdeck/proofdeck.mjs) &nbsp;·&nbsp; [**TESTS →**](./projects/proofdeck/proofdeck.test.mjs) &nbsp;·&nbsp; [**GETTING STARTED →**](./projects/proofdeck/README.md)
+
+*Experimental open-source-style prototype — not a claim of being the world's first.*
+
+</div>
+
+<br>
+
+<div align="center">
+
 ## CURRENTLY BUILDING
 
 <table>
