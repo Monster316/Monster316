@@ -247,6 +247,24 @@ Creative and digital-solutions work spanning branded content, WordPress websites
 
 <div align="center">
 
+## OPEN CODE SHOWCASE
+
+*Readable JavaScript demonstrations inspired by ongoing business-software work. These are standalone examples, not production source-code releases.*
+
+[**BROWSE SOURCE CODE & TESTS →**](./showcase/README.md)
+
+</div>
+
+| Working sample | Explore source | Tests |
+| --- | --- | --- |
+| Savings plan calculations | [JavaScript module](./showcase/savings-plan.mjs) | [Unit tests](./showcase/savings-plan.test.mjs) |
+| Café order pricing & transitions | [JavaScript module](./showcase/cafe-order.mjs) | [Unit tests](./showcase/cafe-order.test.mjs) |
+| Staff leave approvals | [JavaScript module](./showcase/staff-leave.mjs) | [Unit tests](./showcase/staff-leave.test.mjs) |
+
+<br>
+
+<div align="center">
+
 ## CURRENTLY BUILDING
 
 <table>
