@@ -202,7 +202,7 @@ A public repository inside the Design Dropper ecosystem and part of my growing c
 <tr>
 <td width="50%" valign="top">
 
-### [Savings Scheme Management System](./case-studies/np-gruha-samruddhi-scheme.md)
+### [Savings Scheme Management System](./case-studies/savings-scheme-management.md)
 Customer savings-scheme management for electronics and furniture retail.
 
 **Modules:** Customer onboarding · 12-month installments · Receipts · Maturity benefits · Role-based access · Audit trails · Reporting
@@ -212,7 +212,7 @@ Customer savings-scheme management for electronics and furniture retail.
 </td>
 <td width="50%" valign="top">
 
-### [Café & Restaurant POS](./case-studies/np-chill-station-pos.md)
+### [Café & Restaurant POS](./case-studies/cafe-restaurant-pos.md)
 A café billing and operations solution with kitchen order tickets and separate AC/non-AC pricing.
 
 **Modules:** Billing · KOT · Supplier and customer balances · Attendance · Staff permissions · Receipt customization
@@ -224,7 +224,7 @@ A café billing and operations solution with kitchen order tickets and separate 
 <tr>
 <td width="50%" valign="top">
 
-### [Staff Attendance & HR Hub](./case-studies/np-staff-hub.md)
+### [Staff Attendance & HR Hub](./case-studies/staff-attendance-hr-hub.md)
 Workforce attendance and staff coordination application designed around a biometric punch system.
 
 **Modules:** Attendance visibility · Late-arrival reasons · Leave requests · Weekly-off approval · Team communication
