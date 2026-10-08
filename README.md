@@ -202,7 +202,7 @@ A public repository inside the Design Dropper ecosystem and part of my growing c
 <tr>
 <td width="50%" valign="top">
 
-### [NP Gruha Samruddhi Scheme](./case-studies/np-gruha-samruddhi-scheme.md)
+### [Savings Scheme Management System](./case-studies/np-gruha-samruddhi-scheme.md)
 Customer savings-scheme management for electronics and furniture retail.
 
 **Modules:** Customer onboarding · 12-month installments · Receipts · Maturity benefits · Role-based access · Audit trails · Reporting
@@ -212,7 +212,7 @@ Customer savings-scheme management for electronics and furniture retail.
 </td>
 <td width="50%" valign="top">
 
-### [NP Chill Station POS](./case-studies/np-chill-station-pos.md)
+### [Café & Restaurant POS](./case-studies/np-chill-station-pos.md)
 A café billing and operations solution with kitchen order tickets and separate AC/non-AC pricing.
 
 **Modules:** Billing · KOT · Supplier and customer balances · Attendance · Staff permissions · Receipt customization
@@ -224,7 +224,7 @@ A café billing and operations solution with kitchen order tickets and separate 
 <tr>
 <td width="50%" valign="top">
 
-### [NP Staff Hub](./case-studies/np-staff-hub.md)
+### [Staff Attendance & HR Hub](./case-studies/np-staff-hub.md)
 Workforce attendance and staff coordination application designed around a biometric punch system.
 
 **Modules:** Attendance visibility · Late-arrival reasons · Leave requests · Weekly-off approval · Team communication
@@ -253,8 +253,8 @@ Creative and digital-solutions work spanning branded content, WordPress websites
 <tr>
 <td width="33%" align="center" valign="top">
 
-### NP GROUPS
-Creative, digital and technology work across the NP ecosystem.
+### BUSINESS SOLUTIONS
+Creative, digital and technology solutions for different businesses.
 
 **Branding · Media · Web · Digital Systems**
 
@@ -270,7 +270,7 @@ Growing a personal creative-tech brand for design, websites and digital experien
 <td width="33%" align="center" valign="top">
 
 ### SOFTWARE & AUTOMATION
-Building practical tools for business workflows, customer management and digital operations.
+Building adaptable business software with client branding, configurable workflows and digital operations.
 
 **Supabase · Web Apps · Automation · GitHub**
 
