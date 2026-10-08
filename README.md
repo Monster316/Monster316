@@ -280,7 +280,7 @@ A zero-dependency JavaScript CLI prototype that checks whether documented projec
 | New utility | Explore |
 | --- | --- |
 | EnvSentinel · environment examples | [Source & docs](https://github.com/Monster316/EnvSentinel) |
-| RouteContract · HTTP route audits | [Source & docs](./projects/route-contract/README.md) |
+| RouteContract · HTTP route audits | [Source & docs](https://github.com/Monster316/RouteContract) |
 | ReceiptLedger · receipt sequencing checks | [Source & docs](./projects/receipt-ledger/README.md) |
 | SchemaDrift Notes · JSON schema comparisons | [Source & docs](./projects/schema-drift-notes/README.md) |
 
