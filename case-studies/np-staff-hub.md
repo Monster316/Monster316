@@ -1,4 +1,4 @@
-# NP Staff Hub
+# Staff Attendance & HR Hub
 
 <p align="center">
   <strong>Staff attendance & coordination</strong>
@@ -10,7 +10,7 @@
 
 ---
 
-> **Portfolio case study — documentation only.** This page showcases the project's business requirements and design scope. It is not a public source-code release or downloadable application.
+> **Portfolio case study — documentation only.** This page showcases a reusable business-solution concept that can be adapted with a client's own company name, logo, and workflows. It is not a public source-code release or downloadable application.
 
 ## Overview
 
@@ -40,13 +40,17 @@ Attendance device logs punch → app sync layer processes attendance → employe
 
 Screenshots can be added after checking that all customer, employee, payment, and infrastructure details have been removed. No screenshots are included in this initial case study.
 
+## Customization for different businesses
+
+The application concept can be tailored with a customer's business name, logo, colors, receipt layout, and operational rules. Individual deployments require configuration and validation; this repository does not provide a ready-to-deploy or licensed software package.
+
 ## Scope and confidentiality
 
 Integration details and device connectivity must be validated in the deployment environment. No hardware credentials, employee records, or internal network information are published.
 
 ## Credits
 
-**Project / business:** NP Groups ecosystem  
+**Project type:** Customizable business software case study  
 **Creative & digital solutions:** [Design Dropper](https://designdropper.com)  
 **Portfolio:** [Joyal Lasrado (@Monster316)](https://github.com/Monster316)
 
