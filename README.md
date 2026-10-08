@@ -267,13 +267,22 @@ Creative and digital-solutions work spanning branded content, WordPress websites
 
 ## DEVELOPER TOOL LAB
 
+[**EXPLORE ALL FIVE DEVELOPER TOOLS →**](./projects/README.md)
+
 ### [ProofDeck — Claim-to-Evidence Checker](./projects/proofdeck/README.md)
 
 A zero-dependency JavaScript CLI prototype that checks whether documented project claims have matching file or text evidence. Reports **PASS / FAIL / UNKNOWN** without running untrusted project commands.
 
 [**SOURCE CODE →**](./projects/proofdeck/proofdeck.mjs) &nbsp;·&nbsp; [**TESTS →**](./projects/proofdeck/proofdeck.test.mjs) &nbsp;·&nbsp; [**GETTING STARTED →**](./projects/proofdeck/README.md)
 
-*Experimental open-source-style prototype — not a claim of being the world's first.*
+*Experimental developer tools built as standalone examples. Not a claim of being the world's first.*
+
+| New utility | Explore |
+| --- | --- |
+| EnvSentinel · environment examples | [Source & docs](./projects/env-sentinel/README.md) |
+| RouteContract · HTTP route audits | [Source & docs](./projects/route-contract/README.md) |
+| ReceiptLedger · receipt sequencing checks | [Source & docs](./projects/receipt-ledger/README.md) |
+| SchemaDrift Notes · JSON schema comparisons | [Source & docs](./projects/schema-drift-notes/README.md) |
 
 </div>
 
