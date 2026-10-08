@@ -194,13 +194,15 @@ A public repository inside the Design Dropper ecosystem and part of my growing c
 
 *Real-world applications and workflow systems developed for business operations. Project descriptions only — production source code, customer information, and internal infrastructure remain private.*
 
+[**EXPLORE ALL SOFTWARE CASE STUDIES →**](./case-studies/README.md)
+
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### NP Gruha Samruddhi Scheme
+### [NP Gruha Samruddhi Scheme](./case-studies/np-gruha-samruddhi-scheme.md)
 Customer savings-scheme management for electronics and furniture retail.
 
 **Modules:** Customer onboarding · 12-month installments · Receipts · Maturity benefits · Role-based access · Audit trails · Reporting
@@ -210,7 +212,7 @@ Customer savings-scheme management for electronics and furniture retail.
 </td>
 <td width="50%" valign="top">
 
-### NP Chill Station POS
+### [NP Chill Station POS](./case-studies/np-chill-station-pos.md)
 A café billing and operations solution with kitchen order tickets and separate AC/non-AC pricing.
 
 **Modules:** Billing · KOT · Supplier and customer balances · Attendance · Staff permissions · Receipt customization
@@ -222,7 +224,7 @@ A café billing and operations solution with kitchen order tickets and separate 
 <tr>
 <td width="50%" valign="top">
 
-### NP Staff Hub
+### [NP Staff Hub](./case-studies/np-staff-hub.md)
 Workforce attendance and staff coordination application designed around a biometric punch system.
 
 **Modules:** Attendance visibility · Late-arrival reasons · Leave requests · Weekly-off approval · Team communication
